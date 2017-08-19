@@ -1,0 +1,16 @@
+{
+    "connections": {
+        "client1": {
+            "host": "localhost",
+            "database": "client1",
+            "username": "root",
+            "password": ""
+        },
+        "client2": {
+            "host": "localhost",
+            "database": "client2",
+            "username": "root",
+            "password": ""
+        }
+    }
+}
